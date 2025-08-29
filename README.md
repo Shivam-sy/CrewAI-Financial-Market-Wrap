@@ -7,7 +7,7 @@ It demonstrates the use of CrewAI agents as independent workers, each focusing o
 
 ⚙️ Setup Instructions
 1. Clone the repository
-git clone https://github.com/your-username/CrewAI-Financial-Market-Wrap.git
+git clone https://github.com/Shivam-sy/CrewAI-Financial-Market-Wrap.git
 cd CrewAI-Financial-Market-Wrap
 
 2. Install dependencies
@@ -89,5 +89,6 @@ Despite losses, the index has risen 2.5% in August...
 2. Auto-insert charts/graphs in Telegram messages
 
 3. Integrate YouTube/X feeds for richer context
+
 
 4. Support multi-language daily reports
